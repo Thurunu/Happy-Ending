@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019305760381",
+    "project_id": "happy-ending-4ece5",
+    "storage_bucket": "happy-ending-4ece5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019305760381:android:d94ab2fd476ff5a163c314",
+        "android_client_info": {
+          "package_name": "com.mtm.happyending"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhQiNP4TXZ5JHCaDtRdg-hB86ajvMWwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

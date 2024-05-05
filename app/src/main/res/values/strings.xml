@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HappyEnding</string>
+    <string name="change_name">Change Name</string>
+    <string name="chnage_password">Chnage Password</string>
+    <string name="restore">Restore</string>
+    <string name="backup">Backup</string>
+    <string name="backup_restore"><![CDATA[Backup & Restore]]></string>
+    <string name="make_chagnges">Make Changes</string>
+</resources>

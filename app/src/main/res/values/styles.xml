@@ -1,0 +1,8 @@
+<resources>
+    <style name="RoundedCornersDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@drawable/dialog_rounded_corners_background</item>
+    </style>
+    <style name="AlertDialogButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
