@@ -1,0 +1,5 @@
+<!-- circle_mask.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="1000dp"/> <!-- large value to ensure it's a circle -->
+    <solid android:color="#000000"/> <!-- any color you like -->
+</shape>

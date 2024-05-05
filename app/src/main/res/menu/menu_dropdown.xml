@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item1"
+        android:title="Edit"
+        android:icon="@drawable/edit_note"/>
+    <item
+        android:id="@+id/menu_item2"
+        android:title="Delete"
+        android:icon="@drawable/delete_forever"/>
+    <!-- Add more items if needed -->
+</menu>
